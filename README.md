@@ -1,2 +1,9 @@
 # Timeline
-Minimalistic timeline about Bosnian history made with HTML, CSS and a bit of JS.
+
+### About
+I have always loved history as much as I love programming. So I decided to combine those two and make a timeline of Bosnian history.
+
+### Technologies used
+1. HTML
+2. CSS
+3. Animate.css for animations (https://animate.style/)
