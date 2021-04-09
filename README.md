@@ -7,3 +7,5 @@ I have always loved history as much as I love programming. So I decided to combi
 1. HTML
 2. CSS
 3. Animate.css for animations (https://animate.style/)
+
+You can check the timeline [here](https://ahmedskulj00.github.io/Timeline/)
