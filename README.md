@@ -1,8 +1,8 @@
 # Timeline
 
 ### About
-I have always loved history as much as I love programming. So I decided to combine those two and make a timeline of Bosnian history.
-It includes all major evenets that happened throughout history of Bosnia and Herzegovina.
+#### I have always loved history as much as I love programming. So I decided to combine those two and make a timeline of Bosnian history.
+#### It includes all major evenets that happened throughout history of Bosnia and Herzegovina.
 
 ### Technologies used
 1. HTML
